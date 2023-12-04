@@ -1,0 +1,30 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Cut Aulia Safira Rachman",
+      "nim": "21/480436/SV/19640",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "rainbow",
+      "color": "#FF8080"
+    },
+    {
+      "nama": "Cut Aulia Safira Rachman",
+      "nim": "21/480436/SV/19640",
+      "kelas": "B",
+      "icon": "rainbow",
+      "color": "#FF8080",
+      "id": 2
+    },
+    {
+      "nama": "Adinda Fajri",
+      "nim": "21/478367/SV/176895",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#FF8080",
+      "icon": "rainbow",
+      "id": 4
+    }
+  ]
+}
