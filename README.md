@@ -1,3 +1,59 @@
+# Nama Aplikasi
+Escape Buddy (Aplikasi Persebaran Escape Building di Banda Aceh)
+
+# Deskripsi Aplikasi
+Banda Aceh merupakan sebuah kota yang terletak di tepi pantai pulau Sumatera dengan zona rentan terhadap bencana alam, salah satunya adalah tsunami. Gempa yang mengguncang Provinsi Aceh berkekuatan M 9,3 berpusat di Samudera Hindia pada kedalaman hanya 10 kilometer di dasar laut tepatnya pada posisi 2,9 derajat Lintang Utara dan 96,6 derajat Bujur Timur. Hal tersebut mengakibatkan peristiwa munculnya gelombang tsunami dengan ketinggian diperkirakan mencapai 30 meter dan kecepatan hingga 100 meter per detik, atau 360 kilometer per jam. Kejadian gempa dan tsunami tersebut memberikan pemahaman mengenai resiko yang akan terjadi, sehingga langkah-langkah pencegahan dan kesiapsiagaan sangat penting untuk melindungi penduduk setempat. Escape Buddy merupakan sebuah aplikasi yang dapat dijadikan sebagai alternatif dalam menyampaikan informasi mengenai lokasi dan tempat evakuasi apabila terjadi kembali kejadian gempa dan tsunami tersebut. Informasi tempat evakuasi pada aplikasi ini direpresentasikan melalui sebuah peta dengan marker yang berisikan pop-up mengenai alamat escape building tersebut dan juga dapat dilakukan penambahan titik atau data secara real-time.
+
+# Komponen Pembangun Aplikasi
+1. React Native
+2. HTML dan JavaScript
+3. LeafletJS
+4. Google Spreadsheet
+5. Apps Script
+6. FontAwesome5
+7. GitHub
+   
+# Sumber Data
+1. Data Lokasi Escape Building (Google Maps)
+2. Plugin Geolocation dan Basemap (LeafletJS)
+3. Icon (FontAwesome5)
+   
+# Screenshoot Komponen Penting Aplikasi
+# Tab Home
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/cd95a8dc-5ede-47e6-8a0f-9f37f8023e8e)
+# Tab Map
+# Tampilan Tab Map dengan Titik Lokasi Escape Building beserta Pop-Up Informasi dan Shapefile Area Kota Banda Aceh**
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/b47f6864-8742-4a41-b0e6-5f33be1d97a3)
+# Plugin Basemap**
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/d188e3cd-7008-404c-bdc8-2dc40e47b932)
+# Tab Add Data
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/881bfd1f-eb5e-4b81-b3c1-a0477a9d55cd)
+# Tab List Data
+# Tampilan Halaman List Data
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/71ea7dde-6534-4494-9039-a3a0e184f9ac)
+# Fitur Routing (Apabila Menekan Button 'LOKASI')
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/3b039ec2-81b9-4536-aa46-32b0ba80e44a)
+# Tab Profile
+![image](https://github.com/cutsafiraar/responsi-pgpbl/assets/119673357/8db7f4b5-5f2d-4593-a876-dfc0a6d8834c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
